@@ -1,0 +1,14 @@
+C:\dev\webappdemo\bin\Debug\netcoreapp2.2\webappdemo.deps.json
+C:\dev\webappdemo\bin\Debug\netcoreapp2.2\webappdemo.runtimeconfig.json
+C:\dev\webappdemo\bin\Debug\netcoreapp2.2\webappdemo.runtimeconfig.dev.json
+C:\dev\webappdemo\bin\Debug\netcoreapp2.2\webappdemo.dll
+C:\dev\webappdemo\bin\Debug\netcoreapp2.2\webappdemo.pdb
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.csprojAssemblyReference.cache
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.csproj.CoreCompileInputs.cache
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.RazorAssemblyInfo.cache
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.RazorAssemblyInfo.cs
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.AssemblyInfoInputs.cache
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.AssemblyInfo.cs
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.RazorTargetAssemblyInfo.cache
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.dll
+C:\dev\webappdemo\obj\Debug\netcoreapp2.2\webappdemo.pdb
